@@ -6,7 +6,7 @@
 * CSS
 
 # Desenvolvido por
-*Matheus Carvalho
+* Matheus Carvalho
 
 Projeto feito para melhorar habilidades no JavaScript e validação de formulários na WEB
 
